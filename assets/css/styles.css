@@ -152,11 +152,11 @@ img {
   overflow: hidden; /* For animation ScrollReveal */
 }
 
-.color-red {
+.color-red{
   color: hsl(0, 80%, 64%);
 }
 
-.color-green {
+.color-green{
   color: var(--first-color);
 }
 

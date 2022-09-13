@@ -139,6 +139,12 @@ const sendEmail = (e) => {
 
                 contactMessage.classList.add('color-green')
                 contactMessage.textContent = 'You registered successfully 💪'
+
+                //Remove message after three seconds
+
+                setTimeout(() =>{
+                    contactMessage.textContent = ''
+                }, 3000)
              })
     }
 

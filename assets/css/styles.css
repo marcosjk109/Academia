@@ -7,10 +7,10 @@
   
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --first-color: hsl(79, 72%, 55%);
-  --first-color-light: hsl(79, 97%, 77%);
-  --first-color-alt: hsl(79, 67%, 52%);
-  --first-color-dark: hsl(79, 63%, 50%);
+  --first-color: hsl(335, 72%, 55%);
+  --first-color-light: hsl(335, 97%, 77%);
+  --first-color-alt: hsl(335, 67%, 52%);
+  --first-color-dark: hsl(335, 63%, 50%);
   --first-color-gray: hsl(79, 6%, 64%);
   --title-color: hsl(180, 4%, 98%);
   --title-color-black: hsl(180, 4%, 12%);
@@ -191,7 +191,7 @@ img {
 }
 
 .nav__logo img{
-  width: 1.25rem;
+  width: 7.25rem;
 }
 
 .nav__toggle{
@@ -980,7 +980,7 @@ img {
   }
   .nav__list{
     flex-direction: row;
-    padding: 0;
+    padding: 41px;
     align-items: center;
     column-gap: 4rem;
   }
@@ -1077,11 +1077,11 @@ img {
     transform: translateX(-9rem);
   }
   .home__img{
-    width: 580px;
+    width: 610px;
     transform: translateX(2rem);
   }
   .home__triangle{
-    height: 830px;
+    height: 775px;
   }
   .home__triangle-1{
     width: 205px;

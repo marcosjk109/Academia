@@ -164,7 +164,7 @@ const sendEmail = (e) => {
         contactMessage.classList.add('color-red')
 
         //Show message
-        contactMessage.textContent = 'You muster enter email ☝️'
+        contactMessage.textContent = 'Você deve inserir o e-mail. ☝️'
 
         //Remove message three seconds
 
@@ -178,7 +178,7 @@ const sendEmail = (e) => {
                 //Show message and add color
 
                 contactMessage.classList.add('color-green')
-                contactMessage.textContent = 'You registered successfully 💪'
+                contactMessage.textContent = 'Seu email foi enviado com sucesso. 💪'
 
                 //Remove message after three seconds
 

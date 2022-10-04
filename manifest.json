@@ -1,0 +1,44 @@
+{
+    "theme_color": "#07b40e",
+    "theme-color": "#07b40e",
+    "background_color": "#43f201",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "./?=pwa",
+    "name": "Academia",
+    "short_name": "Universe",
+    "description": "higieniza\u00e7\u00e3o",
+    "icons": [
+        {
+            "src": "/image/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/image/logoja03.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/image/logoja03.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/image/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/image/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "any maskable"
+            
+        }
+    ]
+}

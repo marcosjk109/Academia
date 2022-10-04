@@ -4,7 +4,7 @@
     "background_color": "#43f201",
     "display": "standalone",
     "scope": "/",
-    "start_url": "./?=pwa",
+    "start_url": "https://wonderful-phoenix-26a18c.netlify.app/",
     "name": "Academia",
     "short_name": "Universe",
     "description": "higieniza\u00e7\u00e3o",
